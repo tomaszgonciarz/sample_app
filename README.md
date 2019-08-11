@@ -5,6 +5,8 @@ This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
 
+To see the working application please visit: [*https://secure-earth-55339.herokuapp.com*](https://secure-earth-55339.herokuapp.com)
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
